@@ -8699,6 +8699,7 @@ Kunal Khallar - Learning to contribute :)
 - [adi785](https://github.com/adi785) - Call for Mythical_Ace!!!
 - [Yashwanth](https://github.com/tpyashwanth46-maker)
 - [Sahil K](https://github.com/sahilk1803)
+- - [Aakash Vijay](https://github.com/Aakashvijay40208-crypto) - My first open-source contribution!
 - MartinS - my contrib
 - > [18-11-26] neocizee $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ o/
 - [Fariba](https://github.com/faribah90-maker)
